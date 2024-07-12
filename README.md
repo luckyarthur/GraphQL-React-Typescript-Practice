@@ -33,3 +33,6 @@ yarn dev
 ```
 
 After the client and server build processes complete, you should see an "imitation Twitter" running on Parcel default Port [http://localhost:1234](http://localhost:1234).
+
+<img width="1364" alt="image" src="https://github.com/user-attachments/assets/cf9ece78-19a6-46c0-a122-494f215be7d7">
+
