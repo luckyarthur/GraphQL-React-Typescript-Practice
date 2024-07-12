@@ -9,8 +9,9 @@ First, if you want to ensure you're using the correct Node.js and package manage
 curl https://get.volta.sh | bash
 
 # install Node
-volta install node
+volta install node@14
 ```
+I have tested, this project only works on node version 14, won't work on version 20.
 
 Then, check out a local copy of this repository
 
